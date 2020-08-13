@@ -73,6 +73,26 @@ namespace Sistema.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap devolucao_fornecedores_40x40 {
+            get {
+                object obj = ResourceManager.GetObject("devolucao fornecedores 40x40", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap faturas_40x40 {
+            get {
+                object obj = ResourceManager.GetObject("faturas 40x40", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fundo_sistema_azul {
             get {
                 object obj = ResourceManager.GetObject("fundo sistema azul", resourceCulture);
