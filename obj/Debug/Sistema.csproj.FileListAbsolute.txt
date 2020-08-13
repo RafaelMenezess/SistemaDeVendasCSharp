@@ -1,0 +1,9 @@
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.exe.config
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.exe
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.pdb
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.exe
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.pdb
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.btn_cad_produtos.resources

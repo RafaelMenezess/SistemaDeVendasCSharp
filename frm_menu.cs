@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema
 {
-    public partial class Form1 : Form
+    public partial class btn_cad_produtos : Form
     {
-        public Form1()
+        public btn_cad_produtos()
         {
             InitializeComponent();
         }
