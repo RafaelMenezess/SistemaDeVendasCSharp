@@ -6,4 +6,6 @@ C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.Properties.Resources.resource
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.exe
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.pdb
-C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.btn_cad_produtos.resources
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_categorias.resources
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.menu_principal.resources
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_produtos.resources

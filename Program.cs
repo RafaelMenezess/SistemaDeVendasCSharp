@@ -16,7 +16,7 @@ namespace Sistema
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new btn_cad_produtos());
+            Application.Run(new menu_principal());
         }
     }
 }
