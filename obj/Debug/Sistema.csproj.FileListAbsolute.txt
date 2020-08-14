@@ -9,3 +9,4 @@ C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.pdb
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_categorias.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.menu_principal.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_produtos.resources
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache

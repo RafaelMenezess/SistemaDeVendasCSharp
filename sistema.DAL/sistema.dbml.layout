@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="sistema">
+  <DataContextMoniker Name="/sistemaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2948784f-4e09-4e6b-915f-88bfa47dc207" absoluteBounds="1.5, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/sistemaDataContext/Categoria" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2f82682-fd7d-4d7c-9a26-f74dfac06103" absoluteBounds="1.5150000000000001, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fbdbe0ca-bb64-4541-8d5c-3d902b7fccc9" absoluteBounds="4.25, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/sistemaDataContext/Produto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6a122e4-a40b-4689-b213-994245c911c5" absoluteBounds="4.2650000000000006, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 1.72199625651042); (4.25 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/sistemaDataContext/Categoria/tb_categoria_tb_produto" />
+      <nodes>
+        <classShapeMoniker Id="2948784f-4e09-4e6b-915f-88bfa47dc207" />
+        <classShapeMoniker Id="fbdbe0ca-bb64-4541-8d5c-3d902b7fccc9" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
