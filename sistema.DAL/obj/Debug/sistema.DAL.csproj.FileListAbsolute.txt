@@ -1,0 +1,6 @@
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll.config
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\bin\Debug\sistema.DAL.pdb
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\obj\Debug\sistema.DAL.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\obj\Debug\sistema.DAL.dll
+C:\wamp64\www\Sistema C#\Sistema\sistema.DAL\obj\Debug\sistema.DAL.pdb

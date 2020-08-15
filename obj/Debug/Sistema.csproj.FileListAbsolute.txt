@@ -1,7 +1,6 @@
 C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.exe.config
 C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.exe
 C:\wamp64\www\Sistema C#\Sistema\bin\Debug\Sistema.pdb
-C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.Properties.Resources.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.exe
@@ -10,3 +9,8 @@ C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_categorias.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.menu_principal.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.frm_produtos.resources
 C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\sistema.DAL.dll
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\sistema.DAL.pdb
+C:\wamp64\www\Sistema C#\Sistema\bin\Debug\sistema.DAL.dll.config
+C:\wamp64\www\Sistema C#\Sistema\obj\Debug\Sistema.csproj.CopyComplete
